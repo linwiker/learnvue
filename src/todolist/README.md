@@ -14,4 +14,4 @@
 `npm i babel-loader babel-core babel-preset-env babel-plugin-syntax-jsx babel-plugin-transform-vue-jsx babel-helper-vue-jsx-merge-props`
 
 ## webpack实现css单独分离打包
-`npm i extract-text-webpack-plugin`
+`npm i extract-text-webpack-plugin extract-text-webpack-plugin@next`
