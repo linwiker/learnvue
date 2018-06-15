@@ -6,3 +6,12 @@
 `npm i cross-env`
 ## 生成html自动包含我们的js和css
 `npm i html-webpack-plugin`
+
+## 自动进行浏览器匹配
+`npm i postcss-loader autoprefixer`
+
+## vue实现render方法和实现jsx代码
+`npm i babel-loader babel-core babel-preset-env babel-plugin-syntax-jsx babel-plugin-transform-vue-jsx babel-helper-vue-jsx-merge-props`
+
+## webpack实现css单独分离打包
+`npm i extract-text-webpack-plugin`
